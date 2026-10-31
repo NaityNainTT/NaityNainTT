@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy TU_NOMBRE 👋
+# ¡Hola! Soy Daniel Perez Gomez 👋
 
 ### 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
