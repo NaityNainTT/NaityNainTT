@@ -50,15 +50,6 @@ Estoy formándome en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y me i
 | ☕ **Aplicación en Java** | Trabajar la lógica y la programación orientada a objetos. |
 | 🗃️ **Proyecto con base de datos** | Diseñar tablas, consultas y relaciones. |
 
-## 📊 Mi actividad en GitHub
-
-<div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-</div>
 
 ## 🎯 Mis objetivos
 
