@@ -42,8 +42,6 @@ Estoy formándome en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y me i
 - 🗃️ **SQL** y bases de datos.
 - 🧪 Buenas prácticas, depuración y control de versiones.
 
-> *Actualiza las tecnologías anteriores a medida que las estudies. No hace falta dominarlas para compartir tu proceso de aprendizaje.*
-
 ## 🚀 Proyectos que quiero desarrollar
 
 | Proyecto | ¿Qué aprenderé? |
@@ -51,8 +49,6 @@ Estoy formándome en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y me i
 | 🌐 **Portfolio web** | Presentar mis proyectos y practicar HTML y CSS. |
 | ☕ **Aplicación en Java** | Trabajar la lógica y la programación orientada a objetos. |
 | 🗃️ **Proyecto con base de datos** | Diseñar tablas, consultas y relaciones. |
-
-*Iré enlazando aquí mis repositorios conforme los publique.*
 
 ## 📊 Mi actividad en GitHub
 
